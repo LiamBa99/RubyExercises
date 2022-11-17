@@ -1,0 +1,1 @@
+{"alpha_list":["i","n","t","e","l","g","c"],"secret_word":["i","n","t","e","l","l","i","g","e","n","c","e"],"user_guess":["i","n","t","e","l","l","i","g","e","n","c","e"],"guesses_left":6}
